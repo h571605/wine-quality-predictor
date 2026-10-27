@@ -145,6 +145,12 @@ Løsningen kan kjøres lokalt med Python.
 
 **GitHub-repository: **[https://github.com/h571605/wine-quality-predictor](https://github.com/h571605/wine-quality-predictor)
 
+
+
+https://github.com/user-attachments/assets/deb92a82-f78f-4be9-a9c6-266cb5a34595
+
+
+
 **5: REFERANSER**
 
 
