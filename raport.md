@@ -143,10 +143,11 @@ Nettsiden viser kvalitetsscoren og en enkel beskrivelse av resultatet. Applikasj
 
 Løsningen kan kjøres lokalt med Python.
 
-**GitHub-repository: **[https://github.com/h571605/wine-quality-predictor](https://github.com/h571605/wine-quality-predictor)**
+**GitHub-repository:** [https://github.com/h571605/wine-quality-predictor](https://github.com/h571605/wine-quality-predictor)
 
 
-**video av nettsiden i bruk**
+**video av nettsiden i bruk:**
+
 https://github.com/user-attachments/assets/deb92a82-f78f-4be9-a9c6-266cb5a34595
 
 
